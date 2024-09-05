@@ -1,7 +1,7 @@
 ## Opa!👋 Eu sou o Eduardo Soares Figueiredo e sou estudante de tecnologia.
 
 - 🔭 Atualmente trabalho sendo estagiário de TI na parte de infraestrutura
-- 🌱 Estou cursando tecnologo em SPI (Sistemas para internet)
+- 🌱 Estou cursando tecnológo em SPI (Sistemas para internet)
 - 📧 Contate-me no email: eduardofigueiredosoares@gmail.com
 - 🖥️ Minhas linguagens favoritas são: Java, "HTML", "CSS" 
 - 💡 Quero atuar na área de desenvolvimento web
