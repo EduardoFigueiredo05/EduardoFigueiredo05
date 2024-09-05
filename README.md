@@ -9,7 +9,7 @@
 
 ## 🖥️📚 Skills:   
 
-<img src="https://github-readme-stats.vercel.app/api?username=EduardoFigueiredo05 &hide=stars,commits,prs,issues,contribs">
+<img src="https://github-readme-stats.vercel.app/api?username=EduardoFigueiredo05 & hide=stars,commits,prs,issues,contribs">
 
 <div style="display: inline_block"><br>
   <img align="center" alt="JS-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
