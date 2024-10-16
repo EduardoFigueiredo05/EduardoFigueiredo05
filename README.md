@@ -31,8 +31,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/EduardoFigueiredo05/EduardoFigueiredo05/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div align="left">
