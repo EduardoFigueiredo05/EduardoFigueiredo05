@@ -18,11 +18,7 @@
 </div>
   
   ##
- 
-<div> 
-<a href = "mailto:eduardofigueiredosoares@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/eduardo-soares-figueiredo-3952a3234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=EduardoFigueiredo05&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&order=1" height="148" alt="stats graph"  />
