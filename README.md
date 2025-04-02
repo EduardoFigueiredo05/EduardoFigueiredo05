@@ -3,7 +3,7 @@
 - 🔭 Atualmente trabalho sendo estagiário de TI na parte de infraestrutura
 - 🌱 Estou cursando tecnológo em SPI (Sistemas para internet)
 - 📧 Contate-me no email: eduardofigueiredosoares@gmail.com
-- 🖥️ Minhas linguagens favoritas são: Java, "HTML", "CSS" 
+- 🖥️ Minhas linguagens favoritas são: PHP, JS e Java 
 - 💡 Quero atuar na área de desenvolvimento web
 - ⚡ Sempre bom estar aprendendo!
 
